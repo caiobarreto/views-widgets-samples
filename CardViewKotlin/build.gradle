@@ -1,8 +1,8 @@
 buildscript {
     ext {
-        compileSdkVersion = 27
+        compileSdkVersion = 28
         minSdkVersion = 21
-        targetSdkVersion = 27
+        targetSdkVersion = 28
 
         espressoVersion = '3.0.1'
         junitVersion = '4.12'
